@@ -1,0 +1,5 @@
+/*
+	Este es un comentario de
+	varias lineas. 
+*/
+// Este es un comentaro de una sola linea. 
