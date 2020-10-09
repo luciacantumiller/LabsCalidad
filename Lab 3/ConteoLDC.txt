@@ -1,0 +1,12 @@
+CLASE BASE:
+29
+Main T= 67 I= 1 B= 48 D= 29 M= 0 A= 48
+------------------------------------
+CLASE NUEVAS:
+Regression T= 14 I= 2
+Correlation T= 10 I= 1
+CalcHelper T= 28 I= 4  
+------------------------------------
+CLASE REUSADAS:
+------------------------------------
+Total de LDC= 119
