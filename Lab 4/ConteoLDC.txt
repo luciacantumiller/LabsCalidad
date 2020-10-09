@@ -1,0 +1,11 @@
+CLASE BASE:
+29
+Main T= 29 I= 1 B= 48 D= 33 M= 0 A= 14
+------------------------------------
+CLASE NUEVAS:
+Distribution T= 19 I= 1
+Simpson T= 44 I= 3 
+------------------------------------
+CLASE REUSADAS:
+------------------------------------
+Total de LDC= 92
