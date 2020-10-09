@@ -1,0 +1,11 @@
+CLASE BASE:
+BlankLines T= 33 I= 4 B= 13 D= 0 M= 4 A= 20
+CommentLines T= 37 I= 5 B= 13 D= 0 M= 4 A= 24
+Main T= 96 I= 1 B= 48 D= 23 M= 4 A= 71
+------------------------------------
+CLASE NUEVAS:
+ClassTypeLOC T=71 I= 5
+------------------------------------
+CLASE REUSADAS:
+------------------------------------
+Total de LDC= 237

@@ -1,0 +1,10 @@
+CLASE BASE:
+------------------------------------
+CLASE NUEVAS:
+main T= 24 I= 0
+commentLines T= 13 I= 0
+blankLines T= 13 I= 0
+------------------------------------
+CLASE REUSADAS:
+------------------------------------
+Total de LDC=59
