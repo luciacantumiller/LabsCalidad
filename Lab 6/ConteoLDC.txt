@@ -1,0 +1,13 @@
+CLASE BASE:
+Main T= 79 I= 1 B= 67 D= 0 M= 0 A= 12
+CalcHelper T= 77 I= 7 B= 28 D= 0 M= 0 A= 49
+Simpson T= 47 I= 3 B= 47 D= 0 M= 1 A= 0
+------------------------------------
+CLASE NUEVAS:
+------------------------------------
+CLASE REUSADAS:
+Correlation T= 10 I= 1 B = 10
+Distribution T= 23 I= 2 B = 23
+Regression T= 14 I= 2 B = 14
+------------------------------------
+Total de LDC= 250
