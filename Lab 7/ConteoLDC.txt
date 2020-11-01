@@ -1,0 +1,10 @@
+CLASE BASE:
+Main T= 104 I= 1 B= 67 D= 20 M= 4 A= 57
+------------------------------------
+CLASE NUEVAS:
+GaussJordan T= 53 I= 5
+------------------------------------
+CLASE REUSADAS:
+CalcHelper T= 28 I= 4 B=2 8
+------------------------------------
+Total de LDC= 185
